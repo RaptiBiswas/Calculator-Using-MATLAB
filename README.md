@@ -9,7 +9,7 @@ o	Multiplication
 
 o	Division
 
-And we also included some advanced functions like:
+And also some advanced functions like:
 
 o	Squaring a Number
 
